@@ -6,8 +6,9 @@ Adept at building business infrastructure on blockchain by developing smart cont
 ## My Hard Skills ⚔️
 - Languages: Solidity, Rust, JavaScript
 - Frameworks: Hardhat, Truffle, Node.js, 
-- Libraries: OpenZeppelin, React.js, web3.js, ethers.js, antd
-- Tools: Ganache, Remix, MetaMask, Infura, Ipfs
+- Libraries: OpenZeppelin, Anchor, web3.js, ethers.js, waffle, chai, React.js, antd
+- Tools: Ganache, Remix, MetaMask, Infura, Ipfs, Slither
+- Protocols: ERC20, ERC721, ERC1155, EIP-2535 Diamond Standard, UniSwap, NFT TokenGating
 
 
 ## My Soft Skills 📝
@@ -17,9 +18,11 @@ Adept at building business infrastructure on blockchain by developing smart cont
 
 
 ## Contact Me 📫
-[LinkedIn](https://www.linkedin.com/in/daniel-armstrong-786583228/)
+LinkedIn: [<b>Daniel Armstrong - Blockchain Developer</b>](https://www.linkedin.com/in/daniel-armstrong-786583228/)
 </br>
-[Email](mailto:dany.armstrong90@gmail.com)
+Email: <b>dany.armstrong90@gmail.com</b>
+</br>
+Discord: <b>dany.armstrong90#3939</b>
 
 <!--
 **dany-armstrong/dany-armstrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
