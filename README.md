@@ -1,6 +1,8 @@
 # About me, Daniel Armstrong
-Award-winning software developer offering extensive experience in blockchain.</br>
-Adept at building business infrastructure on blockchain by developing smart contracts and decentralized web applications.
+Senior Blockchain Developer with 3 Years of Experience in Web3
+
+A self-motivated, self-starter with a well-rounded and developed understanding of the blockchain ecosystem and the best practices for secure and cost-effective smart contract programming.
+Proficient in developing user friendly web3 applications using modern web development technologies with 7 years background of full-stack web development.
 
 
 ## My Hard Skills ⚔️
@@ -8,7 +10,7 @@ Adept at building business infrastructure on blockchain by developing smart cont
 - Frameworks: Hardhat, Truffle, Node.js, 
 - Libraries: OpenZeppelin, Anchor, web3.js, ethers.js, waffle, chai, React.js, antd
 - Tools: Ganache, Remix, MetaMask, Infura, Ipfs, Slither
-- Protocols: ERC20, ERC721, ERC1155, EIP-2535 Diamond Standard, UniSwap, NFT TokenGating
+- Protocols: ERC20, ERC721, ERC1155, EIP-2535 Diamond Standard, UniSwap, NFT Token Gating
 
 
 ## My Soft Skills 📝
