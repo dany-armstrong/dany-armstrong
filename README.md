@@ -3,13 +3,14 @@ Senior Blockchain Developer with 3 Years of Experience in Web3
 
 A self-motivated, self-starter with a well-rounded and developed understanding of the blockchain ecosystem and the best practices for secure and cost-effective smart contract programming.
 Proficient in developing user friendly web3 applications using modern web development technologies with 7 years background of full-stack web development.
+I enjoy being challenged against interesting web3 hackathons every weekend and really like to share what I learned from there among my team members.
 
 
 ## My Hard Skills ⚔️
 - Languages: Solidity, Rust, JavaScript
-- Frameworks: Hardhat, Truffle, Node.js, 
-- Libraries: OpenZeppelin, Anchor, web3.js, ethers.js, waffle, chai, React.js, antd
-- Tools: Ganache, Remix, MetaMask, Infura, Ipfs, Slither
+- Frameworks:Hardhat, Truffle, Anchor, Node.js, 
+- Libraries: OpenZeppelin, Web3.js, Ethers.js, Waffle, Chai, React.js, Vue.js, Antd
+- Tools: Ganache, Remix, MetaMask, Infura, IPFS, Slither
 - Protocols: ERC20, ERC721, ERC1155, EIP-2535 Diamond Standard, UniSwap, NFT Token Gating
 
 
