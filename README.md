@@ -8,7 +8,7 @@ I enjoy being challenged against interesting web3 hackathons every weekend and r
 
 ## My Hard Skills ⚔️
 - Languages: Solidity, Rust, JavaScript
-- Frameworks:Hardhat, Truffle, Anchor, Node.js, 
+- Frameworks: Hardhat, Truffle, Anchor, Node.js, 
 - Libraries: OpenZeppelin, Web3.js, Ethers.js, Waffle, Chai, React.js, Vue.js, Antd
 - Tools: Ganache, Remix, MetaMask, Infura, IPFS, Slither
 - Protocols: ERC20, ERC721, ERC1155, EIP-2535 Diamond Standard, UniSwap, NFT Token Gating
