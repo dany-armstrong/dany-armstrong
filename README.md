@@ -21,7 +21,7 @@ I enjoy being challenged against interesting web3 hackathons every weekend and r
 
 
 ## Contact Me 📫
-LinkedIn: [<b>Daniel Armstrong - Blockchain Developer</b>](https://www.linkedin.com/in/daniel-armstrong-786583228/)
+LinkedIn: [<b>Daniel Armstrong - Blockchain Developer</b>](https://www.linkedin.com/in/daniel-armstrong90/)
 </br>
 Email: <b>dany.armstrong90@gmail.com</b>
 </br>
